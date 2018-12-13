@@ -1,2 +1,2 @@
 Hello windows
-Hoge
+Fuga
